@@ -1,0 +1,29 @@
+.banner-caption__wrapper2 {
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin: 50px;
+  background-color: #f5fbfa;
+  position: absolute;
+  right: 7.5%;
+  border-radius: 10px;
+}
+
+.banner-caption__wrapper3 {
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin: 50px;
+  background-color: #f5fbfa;
+  position: relative;
+  border-radius: 10px;
+}
+
+.col-md-71 {
+  float: right;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
